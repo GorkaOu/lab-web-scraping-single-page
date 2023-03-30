@@ -1,0 +1,2 @@
+Client ID -> db1acf945e55498199fafca94a3b996b
+Client Secret -> d52b6d350fd24846b2c8116a3c4d51d5
